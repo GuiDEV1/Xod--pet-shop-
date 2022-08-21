@@ -1,0 +1,16 @@
+0. o msm menu deve existir em todas as páginas.
+
+1. qual o nome do petshop? você escolhe.
+
+2.Páginma inicial
+a primeira página deve ter um texto introdutótios, algumas fotos de pets e a equipe do petshop.
+
+3. uma página chamada loja com rações e outros tipos de produto para pets.
+
+4. uma página com um formulario de agendamento.
+
+5. Fale conosco/SAC/contato.
+
+6. animais para adoção.
+
+7.conteudo para rodapé. 

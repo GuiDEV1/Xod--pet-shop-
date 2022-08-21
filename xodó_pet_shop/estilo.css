@@ -1,0 +1,219 @@
+/********** Configuração global *******************/
+* {
+    padding: 0px;
+    margin: 0px;
+}
+/* fundo da minha home *******/
+
+#fundo-home {
+    background-image: url(img/pets.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: 15%;
+}
+
+/*************************** Fundo do site padrao********************/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #FFF1D6;
+}
+
+/********* menu-principal ********************/
+#menu-principal {
+    
+    width: 57%;
+    margin: 35px auto;
+    line-height: 29px;
+    background: #3F88C5;
+}
+
+#menu-principal a {
+    text-align: center;
+    width: 10px;
+    text-decoration: none;
+    padding-left: 70px;
+    margin-left: 20px;
+    padding: 7px;
+    color: #fff;
+}
+
+ #menu-principal a:hover {
+    color: purple;
+    background: #fff;    
+} 
+
+#logo {
+    width: 10%;
+    height: 120px;
+    float: left;
+    margin-left: 14px;
+}
+/********************* fim menu ***********/
+
+/********home *********/
+.apresentação {
+    background: #fff;
+    width: 100%;
+    height: 350px;
+}
+
+.space {
+    width: 100px;
+    height: 620px;
+}
+
+.scd {
+    color: rgb(17, 191, 32);
+}
+
+.apresentação h2 {
+    padding: 13px;
+    color: #592E83;
+    text-align: center;
+}
+
+.apresentação p {
+    width: 50%;
+    margin: 15px;   
+}
+
+.apresentação img {
+   width:30%;
+   display: block;
+   margin: 20px auto;
+}
+
+.apresentação a {
+    margin: 9px;    
+    font-size: 18px;
+}
+
+.img-home   img {
+    display: block;
+    margin: 27px auto;
+    width: 36%;
+    height: 450px;
+}
+/*************************** fim home ******************************/
+
+/***************** formataçoes padrão do site *************/
+h1 {
+    margin: 7px;
+}
+
+#tabela {
+    margin: 10px auto;
+}
+
+table td {
+    padding: 9px;
+    background: #fff;
+    border:2px solid rgb(17, 191, 32);
+}
+
+table th {
+    background-color: #3F88C5;
+    color: #fff;
+    border:2px solid rgb(17, 191, 32);
+}
+
+table tr td img {
+    width: 100px;
+}
+
+
+table tr td {
+    text-align: center;
+}
+
+
+#comprar {
+    width: 100px;
+    height: 30px;
+    float: right;
+    margin-top: 450px;
+    margin-right: 80px;
+}
+
+#corpo {
+ margin: 20px auto;
+ width: 60%;
+}
+
+#corpo img {
+    width: 55%;
+    height: 350px;
+    display: block;
+    margin:26px auto;
+}
+
+#forms {
+ width: 60%;
+ margin: 17px auto;
+}
+
+#forms form {
+    text-align: center;
+    margin: 8px;
+    font-size: 22px;
+    padding: 9px;
+}
+
+.botao {
+    background: #3F88C5;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px;
+    width: 100px;
+    margin: 6px;
+}
+
+.botao:hover {
+    background: #fff;
+    color: #592E83;
+}
+
+#forms a {
+    border: 1px solid black;
+    text-decoration: none;
+    background: #3F88C5;
+    color: #fff;
+    padding: 3px;
+}
+
+#forms a:hover {
+    background: #fff;
+    color: #592E83;
+}
+
+.img-forms {
+    float: right;
+    justify-content: flex-end;
+    margin-right: 15px;
+    width: 20%;
+}
+
+
+/************************ fim ***************************/
+
+/****************** rodape *************************/
+
+#rodape {
+    background: linear-gradient(to bottom, rgb(81, 73, 73), #000);
+    width: 100%;
+    line-height: 70px;
+}
+
+#rodape h4 {
+    color: #fff;
+    text-align: center;
+}
+
+
+#rodape img {
+ width: 155px;
+ height: 160px;
+ padding-left: 249px;
+}
